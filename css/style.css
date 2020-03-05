@@ -1,0 +1,7 @@
+.conteiner-selector {
+    display: flex;
+    flex-direction: column;
+}
+.conteiner-selector select {
+    width: fit-content;
+}

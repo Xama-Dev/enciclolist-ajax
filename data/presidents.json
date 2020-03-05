@@ -1,0 +1,222 @@
+[
+    {   
+        "position": 1,
+        "name": "Deodoro da Fonseca",
+        "period":"15 de novembro de 1889 à 23 de novembro de 1891 (2 anos e 8 dias)"
+    },
+    {   
+        "position": 2,
+        "name": "Floriano Peixoto",
+        "period":"23 de novembro de 1891 à 15 de novembro de 1894 (2 anos e 357 dias)"
+    },
+    {   
+        "position": 3,
+        "name": "Prudente de Morais",
+        "period":"15 de novembro de 1894 até 15 de novembro de 1898 (4 anos)"
+    },
+    {   
+        "position": 4,
+        "name": "Campos Sales",
+        "period":"15 de novembro de 1898 até 15 de novembro de 1902 (4 anos)"
+    },
+    {   
+        "position": 5,
+        "name": "Rodrigues Alves",
+        "period":"15 de novembro de 1902 até 15 de novembro de 1906 (4 anos)"
+    },
+    {   
+        "position": 6,
+        "name": "Afonso Pena",
+        "period":"15 de novembro de 1906 até 14 de junho de 1909 (2 anos e 211 dias)"
+    },
+    {   
+        "position": 7,
+        "name": "Nilo Peçanha",
+        "period":"14 de junho de 1909 até 15 de novembro de 1910 (1 ano e 154 dias)"
+    },
+    {   
+        "position": 8,
+        "name": "Hermes da Fonseca",
+        "period":"15 de novembro de 1910 até 15 de novembro de 1914 (4 anos)"
+    },
+    {   
+        "position": 9,
+        "name": "Venceslau Brás",
+        "period":"15 de novembro de 1914 até 15 de novembro de 1918 (4 anos)"
+    },
+    {   
+        "position": "-",
+        "name": "Rodrigues Alves",
+        "period":"Morreu antes de tomar posse"
+    },
+    {   
+        "position": 10,
+        "name": "Delfim Moreira",
+        "period":"15 de novembro de 1918 até 28 de julho de 1919 (255 dias)"
+    },
+    {   
+        "position": 11,
+        "name": "Epitácio Pessoa",
+        "period":"28 de julho de 1919 até 15 de novembro de 1922 (3 anos e 110 dias)"
+    },
+    {   
+        "position": 12,
+        "name": "Artur Bernardes",
+        "period":"15 de novembro de 1922 até 15 de novembro de 1926 (4 anos)"
+    },
+    {   
+        "position": 13,
+        "name": "Washington Luís",
+        "period":"15 de novembro de 1926 até 24 de outubro de 1930 (3 anos e 343 dias)"
+    },
+    {   
+        "position": "-",
+        "name": "Júlio Prestes",
+        "period":"Eleito, não assumiu em razão da Revolução de 1930"
+    },
+    {   
+        "position": "-",
+        "name": "Junta Governativa Provisória de 1930",
+        "period":"24 de outubro de 1930 até 3 de novembro de 1930 (10 dias)"
+    },
+    {   
+        "position": 14,
+        "name": "Getúlio Vargas",
+        "period":"10 de novembro 1937 a 31 de janeiro de 1946 – 8 anos, 2 meses e 21 dias"
+    },
+    {   
+        "position": 15,
+        "name": "José Linhares",
+        "period":"29 de outubro de 1945 até 31 de janeiro de 1946 (94 dias)"
+    },
+    {   
+        "position": 16,
+        "name": "Eurico Gaspar Dutra",
+        "period":"31 de janeiro de 1946 até 31 de janeiro de 1951 (5 anos)"
+    },
+    {   
+        "position": 17,
+        "name": "Getúlio Vargas",
+        "period":"31 de janeiro de 1951 até 24 de agosto de 1954 (3 anos e 205 dias)"
+    },
+    {   
+        "position": 18,
+        "name": "Café Filho",
+        "period":"24 de agosto de 1954 até 8 de novembro de 1955 (1 ano e 76 dias)"
+    },
+    {   
+        "position": 19,
+        "name": "Carlos Luz",
+        "period":"8 de novembro de 1955 até 11 de novembro de 1955 (3 dias)"
+    },
+    {   
+        "position": 20,
+        "name": "Nereu Ramos",
+        "period":"11 de novembro de 1955 até 31 de janeiro de 1956 (81 dias)"
+    },
+    {   
+        "position": 21,
+        "name": "Juscelino Kubitschek",
+        "period":"31 de janeiro de 1956 até 31 de janeiro de 1961 (5 anos)"
+    },
+    {   
+        "position": 22,
+        "name": "Jânio Quadros",
+        "period":"31 de janeiro de 1961 até 25 de agosto de 1961 (206 dias)"
+    },
+    {   
+        "position": 23,
+        "name": "Ranieri Mazzilli",
+        "period":"25 de agosto de 1961 até 7 de setembro de 1961 (13 dias)"
+    },
+    {   
+        "position": 24,
+        "name": "João Goulart",
+        "period":"7 de setembro de 1961 até 2 de abril de 1964 (2 anos e 208 dias)"
+    },
+    {   
+        "position": 25,
+        "name": "Ranieri Mazzilli",
+        "period":"2 de abril de 1964 até 15 de abril de 1964 (13 dias)"
+    },
+    {   
+        "position": 26,
+        "name": "Humberto Castelo Branco",
+        "period":"15 de abril de 1964 até 15 de março de 1967 (2 anos e 334 dias)"
+    },
+    {   
+        "position": 27,
+        "name": "Artur da Costa e Silva",
+        "period":"15 de março de 1967 até 31 de agosto de 1969 (2 anos e 169 dias)"
+    },
+    {   
+        "position": "-",
+        "name": "Pedro Aleixo",
+        "period":"Vice-Presidente impedido de tomar posse como Presidente pela Junta Governativa Provisória de 1969"
+    },
+    {   
+        "position": "-",
+        "name": "Junta Governativa Provisória de 1969",
+        "period":"31 de agosto de 1969 até 30 de outubro de 1969 (60 dias)"
+    },
+    {   
+        "position": 28,
+        "name": "Emílio Garrastazu Médici",
+        "period":"30 de outubro de 1969 até 15 de março de 1974 (4 anos e 136 dias)"
+    },
+    {   
+        "position": 29,
+        "name": "Ernesto Geisel",
+        "period":"15 de março de 1974 até 15 de março de 1979 (5 anos)"
+    },
+    {   
+        "position": 30,
+        "name": "João Figueiredo",
+        "period":"15 de março de 1979 até 15 de março de 1985 (6 anos)"
+    },
+    {   
+        "position": "-",
+        "name": "Tancredo Neves",
+        "period":"Morreu antes de tomar posse"
+    },
+    {   
+        "position": 31,
+        "name": "José Sarney",
+        "period":"15 de março de 1985 até 15 de março de 1990 (5 anos)"
+    },
+    {   
+        "position": 32,
+        "name": "Fernando Collor",
+        "period":"15 de março de 1990 até 29 de dezembro de 1992 (2 anos e 289 dias)"
+    },
+    {   
+        "position": 33,
+        "name": "Itamar Franco",
+        "period":"29 de dezembro de 1992 até 1º de janeiro de 1995 (2 anos e 3 dias)"
+    },
+    {   
+        "position": 34,
+        "name": "Fernando Henrique Cardoso",
+        "period":"1º de janeiro de 1995 até 1º de janeiro de 2003 (8 anos)"
+    },
+    {   
+        "position": 35,
+        "name": "Luiz Inácio Lula da Silva",
+        "period":"1º de janeiro de 2003 até 1º de janeiro de 2011 (8 anos)"
+    },
+    {   
+        "position": 36,
+        "name": "Dilma Rousseff",
+        "period":"1° de janeiro de 2011 até 31 de agosto de 2016 (5 anos e 243 dias)"
+    },
+    {   
+        "position": 37,
+        "name": "Michel Temer",
+        "period":"31 de agosto de 2016 até 1º de janeiro de 2019 (2 anos e 123 dias)"
+    },
+    {   
+        "position": 38,
+        "name": "Jair Bolsonaro",
+        "period":"1º de janeiro de 2019 até o momento"
+    }
+]
