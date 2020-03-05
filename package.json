@@ -1,0 +1,24 @@
+{
+  "name": "projetoenciclolistajax",
+  "version": "1.0.0",
+  "description": "Aplicação que carregada uma lista de itens de acordo com o tema selecionado pelo usuário. As requisições ao servidor são realizadas via Ajax puro.",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xama-Dev/enciclolist-ajax.git"
+  },
+  "author": "Xama-dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xama-Dev/enciclolist-ajax/issues"
+  },
+  "homepage": "https://github.com/Xama-Dev/enciclolist-ajax#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}

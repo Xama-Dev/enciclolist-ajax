@@ -36,75 +36,75 @@
         "capital": "Goiânia"
     },
     {
-         "aome": "Maranhão",
+         "name": "Maranhão",
         "capital": "São Luiz"
     },
     {
-         "aome": "Mato Grosso",
+         "name": "Mato Grosso",
         "capital": "Cuiabá"
     },
     {
-         "aome": "Mato Grosso do Sul",
+         "name": "Mato Grosso do Sul",
         "capital": "Campo Grande"
     },
     {
-         "aome": "Minas Gerais",
+         "name": "Minas Gerais",
         "capital": "Belo Horizonte"
     },
     {
-         "aome": "Pará ",
+         "name": "Pará ",
         "capital": "Belém"
     },
     {
-         "aome": "Paraíba",
+         "name": "Paraíba",
         "capital": "João Pessoa"
     },
     {
-         "aome": "Paraná",
+         "name": "Paraná",
         "capital": "Curitiba"
     },
     {
-         "aome": "Pernambuco",
+         "name": "Pernambuco",
         "capital": "Recife"
     },
     {
-         "aome": "Piauí",
+         "name": "Piauí",
         "capital": "Teresina"
     },
     {
-         "aome": "Rio de Janeiro",
+         "name": "Rio de Janeiro",
         "capital": "Rio de Janeiro"
     },
     {
-         "aome": "Rio Grande do Norte",
+         "name": "Rio Grande do Norte",
         "capital": "Natal"
     },
     {
-         "aome": "Rio Grande do Sul",
+         "name": "Rio Grande do Sul",
         "capital": "Porto Alegre"
     },
     {
-         "aome": "Rondônia",
+         "name": "Rondônia",
         "capital": "Porto Velho"
     },
     {
-         "aome": "Roraima",
+         "name": "Roraima",
         "capital": "Boa vista"
     },
     {
-         "aome": "Santa Catarina",
+         "name": "Santa Catarina",
         "capital": "Florianópolis"
     },
     {
-         "aome": "São Paulo",
+         "name": "São Paulo",
         "capital": "São Paulo"
     },
     {
-         "aome": "Sergipe",
+         "name": "Sergipe",
         "capital": "Aracajú"
     },
     {
-         "aome": "Tocantins",
+         "name": "Tocantins",
         "capital": "Palmas"
     }
 ]
