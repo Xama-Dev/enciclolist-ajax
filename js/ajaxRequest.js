@@ -28,6 +28,7 @@ const config = {
         const json = JSON.parse(response)
         const thereIsUl = document.querySelector('ul')
         let itemsList = []
+        const containerUl = document.querySelector('.container-list')
 
         if(url === 'data/states.json'){
             itemsList = json.reduce(
@@ -45,17 +46,19 @@ const config = {
         }
 
         if(thereIsUl) {
-            document.body.removeChild(thereIsUl)
-            document.body.insertAdjacentHTML('beforeend', `<ul>${itemsList}</ul>`)
+            containerUl.innerHTML = ""
+            containerUl.innerHTML = `<ul>${itemsList}</ul>`
         }else {
-            document.body.insertAdjacentHTML('beforeend', `<ul>${itemsList}</ul>`)
+            containerUl.innerHTML =`<ul>${itemsList}</ul>`
         }
 
         
     },
     error(errorObj) {
-        const message = document.createTextNode(`${errorObj.codeError}: ${errorObj.textError}`)
-        document.body.appendChild(message)
+        const containerUl = document.querySelector('.container-list')
+        const message = `${errorObj.codeError}: ${errorObj.textError}`
+
+        containerUl.innerHTML = message
     }
 }
 

@@ -5,19 +5,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="./css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Fjalla+One&display=swap" rel="stylesheet">
 
     <title>Home</title>
 </head>
 <body>
+    <header>
+        <h1>ENCICLOLIST: A enciclopédia em forma de lista.</h1>
+        <span>by AJAX</span>
+    </header>
     <h1>ENCICLOLIST: A enciclopédia em forma de lista.</h1>
-    <div class="conteiner-selector">
+    <div class="container-selector">
         <label for="">Escolha um tema:</label>
         <select name="" id="">
-            <option value=""></option>
-            <option value="cup">Campeões da copa do mundo</option>
+            <option value="" data-default disabled selected>-</option>
+            <option value="cup">Campeões da copa do mundo</option>            
+            <option value="states">Estados brasileiros e suas capitais</option>
             <option value="presidents">Presidentes do Brasil</option>
-            <option value="states">Estados brasileiros e suas capaitais</option>
         </select>
+    </div>
+    <div class="container-list">
+
     </div>
 
 <script src="./js/ajaxRequest.js"></script>
