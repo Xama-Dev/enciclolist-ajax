@@ -6,4 +6,6 @@ Tecnologias usadas:
 - CSS3: Grid layout.
 - JavaScritp/EcmaScript 6:Clean code.
 - Manipulação DOM
-- AJAX puro
+- AJAX
+- ExpressJs
+- Nodemon
