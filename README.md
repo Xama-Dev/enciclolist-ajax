@@ -1,5 +1,5 @@
 # Enciclolist-ajax
-###Aplicação que carregada uma lista de itens de acordo com o tema selecionado pelo usuário. 
+### Aplicação que carregada uma lista de itens de acordo com o tema selecionado pelo usuário. 
 
 Tecnologias usadas: 
 - HTML5
